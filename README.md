@@ -10,3 +10,14 @@ running at 9600 Baud and 2 Hz.  The Xbee is connected via SoftwareSerial running
 The Processing code is designed to read the data from Arduino and display it on the cockpit displays.
 
 The MapSetup code is used to set the scaling factors for the map.
+
+Planned improvements:
+Battery Level Monitor
+Refresh Rate Increase...hardware serial?
+Command GPS...3.3V board?  Voltage divider?
+Accelerometer...attitude indicator
+Other sensors...detect obstacles, measure gases
+Live video to computer...HUD
+Ball Drop
+Autonomous flying...purchase arduino-based Quad
+
