@@ -51,14 +51,14 @@ void setup()
 {
   Wire.begin();
   startSerialAndWire();
-  setupAltimeter();
+  //setupAltimeter();
   //  dropSetup();
 }
 
 void loop()
 {
-  compass();
-  readAltimeter();
+  //compass();
+  //readAltimeter();
   serialOutputGPSData();
   serialOutput();
   //  drop();
