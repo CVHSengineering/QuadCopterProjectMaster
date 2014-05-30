@@ -14,12 +14,11 @@ The MapSetup code is used to set the scaling factors for the map.
 Planned improvements:
 <ul>
 <li>Battery Level Monitor</li>
+<li>Refresh Rate Increase...hardware serial?</li>
+<li>Command GPS...3.3V board?  Voltage divider?</li>
+<li>Accelerometer...attitude indicator</li>
+<li>Other sensors...detect obstacles, measure gases</li>
+<li>Live video to computer...HUD</li>
+<li>Ball Drop</li>
+<li>Autonomous flying...purchase arduino-based Quad</li>
 </ul>
-Refresh Rate Increase...hardware serial?
-Command GPS...3.3V board?  Voltage divider?
-Accelerometer...attitude indicator
-Other sensors...detect obstacles, measure gases
-Live video to computer...HUD
-Ball Drop
-Autonomous flying...purchase arduino-based Quad
-
