@@ -12,7 +12,9 @@ The Processing code is designed to read the data from Arduino and display it on 
 The MapSetup code is used to set the scaling factors for the map.
 
 Planned improvements:
-Battery Level Monitor
+<ul>
+<li>Battery Level Monitor</li>
+</ul>
 Refresh Rate Increase...hardware serial?
 Command GPS...3.3V board?  Voltage divider?
 Accelerometer...attitude indicator
